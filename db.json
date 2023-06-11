@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React Query",
+      "completed": true
+    },
+    {
+      "title": "React 18",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "NextJS",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Vue",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "JavaScript",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Add Mui",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Next Js",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
